@@ -1,6 +1,6 @@
 # projeto-site
 
-<img src="Imagens/HTML-CSS.png" alt="Logo" align="left" width="90">
+<img src="Imagens/HTML-CSS.png" alt="HTML-CSS" align="left" width="90">
 
  projeto de um site criado durante um curso de git e github.
  
