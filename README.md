@@ -2,7 +2,7 @@
 
 <img src="Imagens/HTML-CSS.png" alt="HTML-CSS" align="center" width="100">
 
- projeto de um site criado durante um curso de git e github.
+ projeto de um site criado durante um curso de Git e Github.
 
  ## Demonstração
 
