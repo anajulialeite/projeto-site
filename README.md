@@ -10,7 +10,7 @@
 
  ## Link do Projeto
 
- Esse é o link do meu projeto: <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
+ Esse é o link do meu projeto <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
 
  ## License
 
