@@ -1,4 +1,4 @@
-# Projeto site
+# Projeto Site
 
 <img src="Imagens/HTML-CSS.png" alt="HTML-CSS" align="center" width="100">
 
