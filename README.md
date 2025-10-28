@@ -8,9 +8,11 @@ projeto de um site criado durante um curso de Git e GitHub do CursoemVideo, com 
 
 <img src="Imagens/Captura de tela 2025-09-16 012153.png" alt="login" align="center" width="300">
 
-## Link do Projeto
+## Links úteis
 
-Esse é o link do meu projeto <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
+Link do meu projeto <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
+
+Link do curso de <a href="https://www.cursoemvideo.com/curso/curso-de-git-e-github">Git e GitHub</a>
 
 ## License
 
