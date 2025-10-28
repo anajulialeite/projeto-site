@@ -12,7 +12,7 @@ projeto de um site criado durante um curso de Git e GitHub do CursoemVideo, com 
 
 Link do meu projeto <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
 
-Link do curso de <a href="https://www.cursoemvideo.com/curso/curso-de-git-e-github">Git e GitHub</a>
+Link do curso <a href="https://www.cursoemvideo.com/curso/curso-de-git-e-github">Git e GitHub</a>
 
 ## License
 
