@@ -2,16 +2,16 @@
 
 <img src="Imagens/HTML-CSS.png" alt="HTML-CSS" align="center" width="100">
 
- projeto de um site criado durante um curso de Git e GitHub.
+projeto de um site criado durante um curso de Git e GitHub do CursoemVideo, com o professor Gustavo Guanabara.
 
- ## Demonstração
+## Demonstração
 
- <img src="Imagens/Captura de tela 2025-09-16 012153.png" alt="login" align="center" width="300">
+<img src="Imagens/Captura de tela 2025-09-16 012153.png" alt="login" align="center" width="300">
 
- ## Link do Projeto
+## Link do Projeto
 
- Esse é o link do meu projeto <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
+Esse é o link do meu projeto <a href= "https://anajulialeite.github.io/projeto-site/">Projeto Site</a>
 
- ## License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
