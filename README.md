@@ -2,7 +2,7 @@
 
 <img src="Imagens/HTML-CSS.png" alt="HTML-CSS" align="center" width="100">
 
-projeto de um site criado durante um curso de Git e GitHub do CursoemVideo, com o professor Gustavo Guanabara.
+Projeto de um site criado durante um curso de Git e GitHub do CursoemVideo, com o professor Gustavo Guanabara.
 
 ## Demonstração
 
